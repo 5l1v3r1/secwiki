@@ -155,5 +155,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 .idea/
-out/**/*.pdf
-out/**/*.png
+out/*/
